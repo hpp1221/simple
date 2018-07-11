@@ -1,0 +1,24 @@
+.uploadButton {
+    padding: 0 123px;
+    margin-left: 42%;
+}
+.submit {
+    background-color: #cccccc;
+    border: 1px solid #ccc;
+    padding: 0 115px;
+    color: #000;
+}
+
+.ant-col-offset-6 {
+    margin-left: 23%;
+}
+
+.ant-col-12 {
+    display: block;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 54%;
+}
+.ant-radio-wrapper{
+    margin: 0;
+}
