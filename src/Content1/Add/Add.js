@@ -81,6 +81,9 @@ class NormalLoginForm extends Component {
                 <FormItem
                     {...formItemLayout}
                     className="uploadFormItem"
+                    label="样本集上传文件"
+                    labelCol={{ span: 6 }}
+                    wrapperCol={{ span: 12 }}
                 >
                     {getFieldDecorator('upload', {
                         valuePropName: 'fileList',
